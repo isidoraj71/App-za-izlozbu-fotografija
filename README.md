@@ -39,7 +39,7 @@ Konfigurišite .env fajl za lokalnu bazu podataka i Mailtrap.
 Pokretanje aplikacije:
 Pokrenite backend koristeći php artisan serve.
 Pokrenite frontend koristeći npm run dev.
-Otvorite aplikaciju u svom pregledaču na http://localhost:3000.
+Otvorite aplikaciju u svom pregledaču na http://localhost:8000.
 Dodatne napomene:
 Aplikacija koristi JWT autentifikaciju za bezbednu prijavu korisnika, kao i funkcionalnost generisanja QR kodova za potvrde. Prilikom registracije umetnika, omogućeno je postavljanje slika, a posetioci mogu da se prijavljuju na izložbe.
 
